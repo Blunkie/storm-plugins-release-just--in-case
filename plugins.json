@@ -7,8 +7,8 @@
     "id": "unethicalagility-plugin",
     "releases": [
       {
-        "date": "2022-12-04",
-        "sha512sum": "AFA8F20392DF5F37AAFA4B8E2F414BF1593206EB805B7574CD1EEEAAAF4683B3BBD8B612D45BFF18471BCE017083D471FDC342B3E9AF8E580094C83433178F44",
+        "date": "2022-12-06",
+        "sha512sum": "134127EF69CE4F4BEF9E0A2784549F3AE7AE16AB6B944C2A93C48C2EE735A1AF499702B0AF2762DE9703074D71B5AC3837E325761F15BDC5BE9B742E5A4602A9",
         "version": "0.0.5",
         "url": "https://raw.githubusercontent.com/Storm-Client/storm-plugins-release/master/unethical-agility-0.0.5.jar",
         "requires": "^1.0.0"
@@ -23,7 +23,7 @@
     "id": "unethicalautologin-plugin",
     "releases": [
       {
-        "date": "2022-12-04",
+        "date": "2022-12-06",
         "sha512sum": "839CF6ABD7DAF902E173A95CE107516F61A251FC3F0A813F833FBB5F2253866C85541E3D93D8D41279BC1F57964C21EE23D2CA3CF054443374F37AD74353AD3C",
         "version": "0.0.2",
         "url": "https://raw.githubusercontent.com/Storm-Client/storm-plugins-release/master/unethical-autologin-0.0.2.jar",
@@ -39,7 +39,7 @@
     "id": "unethicalbankpin-plugin",
     "releases": [
       {
-        "date": "2022-12-04",
+        "date": "2022-12-06",
         "sha512sum": "F876FED65646359DFB124B831FE17F9046A2854781C93D25B7B93441D7D97E52A9AB43CBB81017395F27D2ED0CB9181E1A5A4679EE66B1A97BCACEFD2433509E",
         "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/Storm-Client/storm-plugins-release/master/unethical-bankpin-0.0.1.jar",
@@ -55,7 +55,7 @@
     "id": "unethicalbutler-plugin",
     "releases": [
       {
-        "date": "2022-12-04",
+        "date": "2022-12-06",
         "sha512sum": "4C575CC1E1933FD6ED211474071197E7D5367CD38589BF62DAFDE9C9F88135B5AD9E122A22DEFC748548A2F12F136CF846EE62FB7B0EA5DB980FC15ED122D6D0",
         "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/Storm-Client/storm-plugins-release/master/unethical-butler-0.0.1.jar",
@@ -78,7 +78,7 @@
         "requires": "^1.0.0"
       },
       {
-        "date": "2022-12-04",
+        "date": "2022-12-06",
         "sha512sum": "7A16A18DF133BDA9D47D67EF44BCD12925237FC3C5BBD906F253E2C4B3FC4E2CC02A3CA93B4F8C04FF81BD09A2EE46B31CE289C1600C3A56EFEE5E9EF2E8124D",
         "version": "0.0.2",
         "url": "https://raw.githubusercontent.com/Storm-Client/storm-plugins-release/master/unethical-chopper-0.0.2.jar",
@@ -94,8 +94,8 @@
     "id": "unethicalcooker-plugin",
     "releases": [
       {
-        "date": "2022-12-04",
-        "sha512sum": "26F4360C01C545E815963E2B06A9B5B1A492CE298B4B6D6653C91849BED3767E346FF4360C4551F0DDD79979412848EF74F722FC095C2C0476BA05282A84FE3A",
+        "date": "2022-12-06",
+        "sha512sum": "F1CCF126D7BC7144D3751983BED848A04346EA2C14EFED98A5E71D2758ACBC927D9EA0EA6C702354752439367F45CC29BA80BF618BF52C525760A890825ED454",
         "version": "0.0.3",
         "url": "https://raw.githubusercontent.com/Storm-Client/storm-plugins-release/master/unethical-cooker-0.0.3.jar",
         "requires": "^1.0.0"
@@ -110,7 +110,7 @@
     "id": "unethicalexplorer-plugin",
     "releases": [
       {
-        "date": "2022-12-04",
+        "date": "2022-12-06",
         "sha512sum": "A1698A369C073AF90A3597711AFB3F29EB5F50BD69C83AF02B19BB189FC82A018201420CFFA013439148CF8FEABE80916BEA919F35BDF3AED553A252026C8021",
         "version": "0.0.5",
         "url": "https://raw.githubusercontent.com/Storm-Client/storm-plugins-release/master/unethical-explorer-0.0.5.jar",
@@ -126,7 +126,7 @@
     "id": "unethicalfighter-plugin",
     "releases": [
       {
-        "date": "2022-12-04",
+        "date": "2022-12-06",
         "sha512sum": "451EC0A2819E9F9F103516054EF3C3C3A3612A76BCFDE7355CC12E121B49C22203171F97D1F5D6D2460DBC0A2AE291B85828C602E3036645897CFC3DF3869489",
         "version": "0.0.6",
         "url": "https://raw.githubusercontent.com/Storm-Client/storm-plugins-release/master/unethical-fighter-0.0.6.jar",
@@ -142,7 +142,7 @@
     "id": "unethicalkebabbuyer-plugin",
     "releases": [
       {
-        "date": "2022-12-04",
+        "date": "2022-12-06",
         "sha512sum": "4B78D83C956C23942EF15C9A02E453A68D74900ADE5971708BAD4E4AED5FD6BC313EF1F935174664558E31DDF66FD0E1C8563DB69D3C92ECD54A88B0CB956939",
         "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/Storm-Client/storm-plugins-release/master/unethical-kebab-buyer-0.0.1.jar",
@@ -158,7 +158,7 @@
     "id": "unethicallogout-plugin",
     "releases": [
       {
-        "date": "2022-12-04",
+        "date": "2022-12-06",
         "sha512sum": "54B213AB0D9CA2453ED027ABF4734E9ECEC670E0E0F45329CFDBD1D3D26E8A1F2A70C1A54E4DBC8CEE560F3FF8487416473DF5EA127ED3122E7952D13C281671",
         "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/Storm-Client/storm-plugins-release/master/unethical-logout-0.0.1.jar",
@@ -174,7 +174,7 @@
     "id": "unethicaloneclick-plugin",
     "releases": [
       {
-        "date": "2022-12-04",
+        "date": "2022-12-06",
         "sha512sum": "2D09A20B414699C285484E9C82A13D59F358A33E1B10A0672D062D4A734798D37A084BC4F0DDB521217878B2F3C87CFFA1B64A93771489DD82E6FEA229EC6CC4",
         "version": "0.0.1",
         "url": "https://raw.githubusercontent.com/Storm-Client/storm-plugins-release/master/unethical-oneclick-0.0.1.jar",
@@ -190,7 +190,7 @@
     "id": "unethicalpickpocket-plugin",
     "releases": [
       {
-        "date": "2022-12-04",
+        "date": "2022-12-06",
         "sha512sum": "5B6E73D222FACFF1EA05493E77ABDF6914A83607A4DF1E26808DD0A6E1DFB8DFE44CE9D7CF26EF33446CFF04679BB92C83F75CE66474ADB6FE55E4A61410CBCC",
         "version": "0.0.6",
         "url": "https://raw.githubusercontent.com/Storm-Client/storm-plugins-release/master/unethical-pickpocket-0.0.6.jar",
